@@ -465,7 +465,7 @@ body {
 
 
 .chest__move{
-    animation: chest__move 0.8s linear infinite forwards;
+    animation: chest__move 1.6s linear infinite forwards;
 }
 
 @keyframes chest__move{
@@ -473,13 +473,13 @@ body {
         transform: rotate(0);
     }
     25%{
-        transform: rotate(-10deg) ;
+        transform: rotate(10deg) ;
     }
     50%{
         transform: rotate(0);
     }
     75%{
-        transform: rotate(20deg);
+        transform: rotate(-30deg);
     }
 }
 
@@ -494,13 +494,13 @@ body {
         transform: rotate(0);
     }
     25%{
-        transform: rotate(15deg);
+        transform: rotate(-15deg);
     }
     50%{
         transform: rotate(0);
     }
     75%{
-        transform: rotate(-10deg);
+        transform: rotate(10deg);
     }
 }
 
