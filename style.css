@@ -465,7 +465,7 @@ body {
 
 
 .chest__move{
-    animation: chest__move 0.8s linear infinite forwards;
+    animation: chest__move 0.4s linear infinite forwards;
 }
 
 @keyframes chest__move{
