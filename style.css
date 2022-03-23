@@ -533,3 +533,11 @@ z-index:200;
         transform: translateY(1vh);
     }
 }
+
+
+
+
+.right,
+.right .hand__container,
+.right .leg__container{
+z-index:5000;}
