@@ -255,16 +255,22 @@ z-index:200;
     position: relative;
     transform-origin: bottom;
     transform: rotate(9deg);
-    z-index: 500;
+   
 }
 
 .chest .block{
     left: 1vh;
+
+z-index:1000 ;
+
 }
 
 .chest .vert__block {
     top: 2vh;
     left: 2vh;
+
+z-index:1000 ;
+
 }
 
 .chest .vert__block:nth-child(odd) {
