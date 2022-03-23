@@ -122,13 +122,13 @@ z-index:200;
     position: relative;
     top: 2.5vh;
     left: -1vh;
-    z-index: 100;
+   
 }
 
 .hand__container:last-child {
     left: 3vh;
     top: 4vh;
-    z-index: 50;
+    
 }
 
 .hand__part {
