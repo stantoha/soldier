@@ -250,7 +250,8 @@ z-index:200;
 
 .body__container {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse ;
+    justify-content:space-around;
     align-items: center;
     position: relative;
     transform-origin: bottom;
